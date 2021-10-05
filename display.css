@@ -50,6 +50,7 @@
   justify-content: center;
   align-items: center;
   margin-top: 10px;
+  
 }
 
 .content:hover div {
@@ -69,3 +70,4 @@
   background-color: #c0c0c0;
   margin: 10px 0;
 }
+
