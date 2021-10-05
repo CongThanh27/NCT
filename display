@@ -1,0 +1,18 @@
+vivisibility: hidden; ẩn đi nhưng vẫn giữ chỗ
+
+
+display 
+block                 hiển thị mặc định
+none                  biến mất hoàn toàn, không còn dấu vết
+inline-block
+
+flex                  có quyền sắp xếp, căn chỉnh các thẻ con
+flex-direction        xếp hàng các thẻ con
+justify-content       căn chỉnh các thẻ con theo chiều của flex
+align-item            căn chỉnh các thẻ con theo chiều còn lại
+flex-wrap             cho phép xuống dòng
+
+hover                 thêm style khi đưa chuột qua
+
+thẻ : hover           thẻ kích hoạt hiệu ứng hover
+thẻ đứng cạnh dấu {}  thẻ nhận style của hover
